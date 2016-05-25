@@ -1,4 +1,3 @@
-import java.awt.CardLayout;
 import java.awt.Rectangle;
 import java.nio.file.Paths;
 
@@ -7,7 +6,6 @@ import javafx.scene.media.Media;
 import javafx.scene.media.MediaPlayer;
 
 import javax.swing.JFrame;
-import javax.swing.JPanel;
 
 /*
  * Daniel Galvao Guerra
